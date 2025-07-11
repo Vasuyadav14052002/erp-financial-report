@@ -1,0 +1,21 @@
+{
+  "title": "ERP Financial Reports",
+  "actualVsBudget": "Actual vs Budget Report",
+  "incomeExpense": "Income & Expense Report",
+  "viewReport": "View Report",
+  "exportToExcel": "Export to Excel",
+  "printReport": "Print Report",
+  "year": "Year",
+  "month": "Month",
+  "saved": "Saved an hour ago",
+  "savedText": "Saved less than 10 seconds ago",
+  "june": "June 2025",
+  "reportHeading": "Actuals v Budget",
+  "reportTableTitle": "Actual vs Budget Report Table",
+  "profitLoss": "PROFIT & LOSS",
+  "budget": "Budget (full FY)",
+  "projection": "Projection (YTD actual + budget)",
+  "vsBudget": "YTD actual + budget vs Budget (FY) (£)",
+  "vsBudgetPercent": "YTD actual + budget vs Budget (FY) (%)",
+  "tableTitle": "Actual vs Budget Report Table"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Informes Financieros ERP",
+  "actualVsBudget": "Reales vs Presupuesto",
+  "incomeExpense": "Informe de Ingresos y Gastos",
+  "viewReport": "Ver Informe",
+  "exportToExcel": "Exportar a Excel",
+  "printReport": "Imprimir Informe",
+  "year": "Año",
+  "month": "Mes",
+  "saved": "Guardado hace una hora",
+  "savedText": "Guardado hace menos de 10 segundos",
+  "june": "Junio 2025",
+  "reportHeading": "Reales vs Presupuesto",
+  "reportTableTitle": "Tabla de Informe Real vs Presupuesto",
+  "profitLoss": "GANANCIAS Y PÉRDIDAS",
+  "budget": "Presupuesto (FY completo)",
+  "projection": "Proyección (real acumulado + presupuesto)",
+  "vsBudget": "Real acumulado + presupuesto vs Presupuesto (FY) (£)",
+  "vsBudgetPercent": "Real acumulado + presupuesto vs Presupuesto (FY) (%)",
+  "tableTitle": "Tabla de Informe Real vs Presupuesto"
+}

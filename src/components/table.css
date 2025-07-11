@@ -1,0 +1,10 @@
+/* Highlight the header row */
+.report-table .ant-table-thead > tr > th {
+  background-color: #f5f5f5; /* light gray-black */
+  font-weight: 600;
+}
+
+/* Highlight rows like Revenue, Total Revenue, Expenses */
+.highlight-row {
+  background-color: #e6f7ff !important; /* light sky blue */
+}

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.report-table .ant-table-thead > tr > th {
+  background-color: #f0f0f0; /* light black/gray */
+  font-weight: 600;
+}
